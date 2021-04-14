@@ -1,2 +1,2 @@
 # HealersAndHerbs
-Website made for a private local buisness in Kundli,Delhi.
+Website made for a private local business in Kundli,Delhi.
